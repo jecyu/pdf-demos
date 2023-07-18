@@ -1,8 +1,10 @@
-# jsPDF + html2canvas A4分页截断 完美解决方案
+# jsPDF + html2canvas 高清打印、A4分页截断 完美解决方案
 
     详解链接：
 
-        掘金： https://juejin.cn/post/7138370283739545613
+        掘金： 
+        - https://juejin.cn/post/7256306281538748477
+        - https://juejin.cn/post/7138370283739545613
 
      解决以下问题
      1. 导出PDF模糊问题
